@@ -1,0 +1,511 @@
+
+Hotel Heleni Beach-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'pool', 'elevator', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 4543kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=d477c99b-1c4f-4bfc-ae46-7084e6d09c22&source=finn&metaData=3b2a9f2504df7c30788a9e42e00fad6f91292697f4d9ebe2e08c7b11e78971c81dc27d65e2e6bfb523e7e9507756d42c&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Marine Congo Hotel-Rhodos,Hellas 2-Stjerners
+Fasiliteter:['balcony', 'pool', 'elevator', 'internet_available'] no_meals Avstand fra strand/by: 150/500
+Flyplass: OSL | 4687kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=1f55474b-1ab7-4ed1-807a-e27b6cc42c5d&source=finn&metaData=5c89b9820393deaf51a7dab6c5f11c845c051a0c1bdea064593c634464a3bc276aa5912b1026c6ebca9bc4f1c3299bf5&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Marianna Apartments-Kos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'pool', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: 900/0
+Flyplass: OSL | 4708kr per pers.
+Reisedato: 24-07-2022
+Antall dager: 8
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-24&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-31&homeStartLocation=c54c211e-88dc-44c2-a428-d7c059a036e7&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=a75fec3d-bdfb-4531-891a-1663a10970ca&source=finn&metaData=1b680a0a9a9db3f3d002a8ff39caf1f6aaf8adb233a68b4fd0515827da66f982f01a3905a486ce52259b8f075403309c&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Miranda Hostal-Costa Brava og Barcelona,Spania 2-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 200/200
+Flyplass: OSL | 4918kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=33041&id=43786&place=Blanes&airport=OSL&departure=2022-07-12&return=2022-07-18&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3NjQ0NTk7Uk87MTs5ODM2OzsyOztPU0w7MTIvNzs2&scroll=search-results&meta=finn
+
+Rena Apartments by Checkin-Kreta,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'restaurant', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 4928kr per pers.
+Reisedato: 23-07-2022
+Antall dager: 9
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-23&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-31&homeStartLocation=4e5615b9-5f53-40f3-885b-dd98caa916db&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=e79b0171-ed71-43fc-8218-c5834f3813ba&source=finn&metaData=c207b3fb18f878a5d1d0a1eeccf98fc285cb372703986b1f057fa19bb3dd2e5e9c9a0ea1da2a43b7eff797c8fbf79659&directFlight=true&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Philoxenia Hotel & Studios-Rhodos,Hellas 2-Stjerners
+Fasiliteter:['balcony', 'internet_available'] no_meals Avstand fra strand/by: 800/200
+Flyplass: OSL | 4947kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=4e9a54a2-25d5-4f35-a7c7-0200d123c822&source=finn&metaData=5a1cbaa1ed042710fc27ab724e938fbf254354a9a351518eeeb920b6a749eebd64cf731d102978f540942fd137ed1507&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Ca's Bombu-Mallorca,Spania 2-Stjerners
+Fasiliteter:['internet_available'] no_meals Avstand fra strand/by: 1500/None
+Flyplass: TRF | 4970kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=30596&id=43827&place=Cala+Ratjada&airport=TRF&departure=2022-07-12&return=2022-07-19&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs2ODIyNDY7Uk87MDs5OTQwOzsyOztUUkY7MTIvNzs3&scroll=search-results&meta=finn
+
+House Topic-Makarskas Riviera,Kroatia 3-Stjerners
+Fasiliteter:['balcony', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 4990kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=ddc1347b-29ac-4e40-b658-619c12398fb0&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=9749e882-2be7-407c-a4e3-9a9643b1a071&source=finn&metaData=e5cffa0fbb5158c5aedea0ab9a98d1f1459782ca94c4c513bf8aaa7c7733cde00a36b5504ca732ed228c98101d752f80&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Tivoli Hotel-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'kids_pool', 'internet_available'] no_meals Avstand fra strand/by: 3000/5000
+Flyplass: OSL | 4996kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=ef2dcf41-c9d5-49c2-902b-8ed248b877db&source=finn&metaData=c207b3fb18f878a5d1d0a1eeccf98fc2b9020f3315bf47af94ade7e06918f140c8339bbc1cad32a78f753e82e5d340ee&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Bonavista Hostal-Costa Brava og Barcelona,Spania 2-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 400/200
+Flyplass: OSL | 5002kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=30397&id=43787&place=Calella&airport=OSL&departure=2022-07-12&return=2022-07-18&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs2NzUyMzU7Uk87MDsxMDAwNDs7Mjs7T1NMOzEyLzc7Ng==&scroll=search-results&meta=finn
+
+Phaethon Hotel-Kos,Hellas 2-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 800/None
+Flyplass: OSL | 5035kr per pers.
+Reisedato: 23-07-2022
+Antall dager: 9
+Link: https://www.solfaktor.no/search?hotelid=29836&id=44154&place=Kos+by&airport=OSL&departure=2022-07-23&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs2NTIwODU7Uk87MDsxMDA3MDs7Mjs7T1NMOzIzLzc7OA==&scroll=search-results&meta=finn
+
+Orion Hotel Faliraki-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'elevator', 'kids_pool', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5122kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=eda9beff-4610-4315-be0e-1714fb539f56&source=finn&metaData=f1fdf348a2c899872ac8616eaee0520c252e3391b14cfb2c36e9961870b928c4fe16302be73b19a5e04060fae70e016a&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Anita-Rhodos,Hellas 3.5-Stjerners
+Fasiliteter:['balcony', 'restaurant', 'pool', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: 400/8000
+Flyplass: OSL | 5139kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=2b2c7bae-4ef5-4939-b8e5-6f798ad81953&source=finn&metaData=ff72ded998a4b7c3c865432ed0e3c2bdd6468240491c3b0c8860be8444a4c670e230760233f44054efb7ab8168718436&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Sunway Hotel-Antalya,Tyrkia 1.5-Stjerners
+Fasiliteter:['restaurant', 'elevator'] breakfast Avstand fra strand/by: 50/50
+Flyplass: SVG | 5145kr per pers.
+Reisedato: 09-07-2022
+Antall dager: 8
+Link: https://www.ving.no/tyrkia/antalya-omradet/alanya/sunway-hotel?ItemId=7486&QueryAges=42,42&QueryDepDate=20220709&QueryDepID=12670&QueryDur=8&QueryUnits=0&UseBookingFlow=true&qf=flowCharter&partner=finn&utm_medium=affiliate&utm_source=finn&utm_campaign=travelsearch_cp
+
+Babaoglu Apart Hotel-Antalya,Tyrkia 2-Stjerners
+Fasiliteter:[] no_meals Avstand fra strand/by: None/None
+Flyplass: GOT | 5198kr per pers.
+Reisedato: 18-07-2022
+Antall dager: 8
+Link: https://www.detur.no/Alx/1921/?sborg=GOT&sbdst=1_2657_Tyrkia&sbdcin=20220718&sbpax=ad2&source=finn
+
+Africa-Rhodos,Hellas 2-Stjerners
+Fasiliteter:['balcony', 'restaurant', 'elevator', 'aircondition_available', 'internet_available'] breakfast Avstand fra strand/by: 80/200
+Flyplass: OSL | 5266kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=cadf4054-6874-4154-8797-82d41374b4f1&source=finn&metaData=cce2ac8d108069a110f2ebf179f186c9d12e42e242def68d0b2cd110f9cdd46386c827908bbe4f179a10462893bc0bc5&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Mon Repos Hotel-Rhodos,Hellas 2-Stjerners
+Fasiliteter:['balcony', 'pool', 'elevator', 'internet_available'] breakfast Avstand fra strand/by: 200/500
+Flyplass: OSL | 5350kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=b484c64f-4221-443f-86c1-1bd6e449e501&source=finn&metaData=33b0b1ec8d2374b6d310f8f7d517077b5b081c35affa0f578f967a7b30821f27ed603add485e99d4d8c2cb9a2512161c&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Hotel Sierra Tejeda-Costa del Sol og Andalucia,Spania 2-Stjerners
+Fasiliteter:['restaurant', 'pool', 'internet_available'] no_meals Avstand fra strand/by: 23600/200
+Flyplass: TRF | 5384kr per pers.
+Reisedato: 24-07-2022
+Antall dager: 8
+Link: https://www.escapeaway.no/search?hotelid=23183&id=36033&place=Alcauc%c3%adn&airport=OSL&departure=2022-07-24&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjsyODkyNTM7Uk87MTsxMDc2ODs7Mjs7T1NMOzI0Lzc7Nw==&scroll=search-results&meta=finn
+
+Hotel Internacional Calella-Costa Brava og Barcelona,Spania 2-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] breakfast Avstand fra strand/by: 50/300
+Flyplass: OSL | 5418kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=31750&id=43787&place=Calella&airport=OSL&departure=2022-07-12&return=2022-07-18&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3MjQ0NzI7QkI7MDsxMDgzNjs7Mjs7T1NMOzEyLzc7Ng==&scroll=search-results&meta=finn
+
+Hotel Bella Mar-Mallorca,Spania 3-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] breakfast Avstand fra strand/by: 750/None
+Flyplass: TRF | 5431kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=32095&id=43827&place=Cala+Ratjada&airport=OSL&departure=2022-07-12&return=2022-07-19&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs3MzU0Mjk7QkI7MTsxMDg2Mjs7Mjs7T1NMOzEyLzc7Nw==&scroll=search-results&meta=finn
+
+Ekavi Apartments-Kreta,Hellas 2.5-Stjerners
+Fasiliteter:['balcony', 'pool', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: 500/1500
+Flyplass: OSL | 5453kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-20&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-26&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=9560e644-7adb-47e1-a8a2-94fa614c6d9c&source=finn&metaData=ef41642d1fb8a6476124ff419bb9677a1b7f390f6e3668f89d5f070d563b5fe9395c8936d1b88f3b849c771c9b8418b3&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Orhan Rooms Dubrovnik-Dubrovnik og omegn,Kroatia 3-Stjerners
+Fasiliteter:['balcony', 'internet_available'] breakfast Avstand fra strand/by: None/None
+Flyplass: OSL | 5469kr per pers.
+Reisedato: 15-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-15&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-21&homeStartLocation=dcdbb7e5-b4df-46e5-aba7-fe370f44bed7&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=81ffb6b5-ae29-4057-94c5-6e7b250bd305&source=finn&metaData=d02ae1c6063150250b00384c842221e0c9cef5a92875fb794c45736b00bd61b09a35022f31d284bb19b521e2ab4bb89f&directFlight=true&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Kun-fly-Sharm el-Sheikh og Sinai,Egypt 2-Stjerners
+Fasiliteter:[] None Avstand fra strand/by: None/None
+Flyplass: OSL | 5495kr per pers.
+Reisedato: 17-07-2022
+Antall dager: 7
+Link: https://www.amisol.no/pakkereiser/sharm-el-sheikh-egypt/kun-fly?from=285&date=2022-07-17&adults=1&children=0&room=20253&length=1+&AgentID=FIN&AgentPW=fin456&utm_source=finn&utm_medium=cpo&utm_campaign=finn_charter
+
+BPM Lloret Hotel-Costa Brava og Barcelona,Spania 4-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] no_meals Avstand fra strand/by: 500/500
+Flyplass: OSL | 5515kr per pers.
+Reisedato: 14-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=29865&id=43791&place=Lloret+de+Mar&airport=OSL&departure=2022-07-14&return=2022-07-20&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs2NTI4NTY7Uk87MDsxMTAzMDs7Mjs7T1NMOzE0Lzc7Ng==&scroll=search-results&meta=finn
+
+Minos Pension-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5520kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=2e5c6682-bd6e-4c77-9eac-84f3a35ba1b6&source=finn&metaData=78fff01987a8cfdf6714a7c15299daa04cf09c20bd7aea9483184c3a0565da057e3fa1026b507453ae2d44ebe581561d&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Hotel B&B Cannes Ouest La Bocca-Provence-Alpes-Cote d'Azur,Frankrike 3-Stjerners
+Fasiliteter:['internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5536kr per pers.
+Reisedato: 14-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=31061&id=44043&place=Cannes&airport=OSL&departure=2022-07-14&return=2022-07-21&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs2OTkxNzA7Uk87MTsxMTA3Mjs7Mjs7T1NMOzE0Lzc7Nw==&scroll=search-results&meta=finn
+
+Maritina Apartments-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'internet_available'] no_meals Avstand fra strand/by: 100/500
+Flyplass: OSL | 5555kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=ac901f98-7ae5-4488-a5ea-292b1c2ca074&source=finn&metaData=89d7cea6a81df7b810860193c464bd83e71578dac17508fa7c3febd7a4be611d05d8ee2b190b48b6a6317eca0fb62e48&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Hotel URH Ciutat de Mataro-Costa Brava og Barcelona,Spania 4-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 100/300
+Flyplass: OSL | 5561kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=32180&id=45636&place=Matar%c3%b3&airport=OSL&departure=2022-07-12&return=2022-07-18&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3Mzg0Mzg7Uk87MDsxMTEyMjs7Mjs7T1NMOzEyLzc7Ng==&scroll=search-results&meta=finn
+
+John & Mary's Studios-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'pool', 'internet_available'] no_meals Avstand fra strand/by: 300/400
+Flyplass: OSL | 5562kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-20&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-26&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=975e7946-f72e-4d52-8a9d-2bea4f9673f5&source=finn&metaData=29e6e94c02963078b4c136273dc1ed31c0af087f7fac5ae1289c2e8d161ac26e92f44e0c3c7683ecf5b5cfb2f0a26d4d&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Oasis Bungalows and Hotel-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['restaurant', 'pool', 'internet_available'] all_inclusive Avstand fra strand/by: 800/1000
+Flyplass: OSL | 5573kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=63353a7b-8718-4ad0-8a42-e739fe91f519&source=finn&metaData=bac876b01c3c6242667e98f8b45e486b9fd7fa05ef0230ebac2738e333b6c5defe1450af08c086f23a1018057ef52ea1&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Hillside Studios & Apartments-Rhodos,Hellas 2.5-Stjerners
+Fasiliteter:['balcony', 'internet_available'] no_meals Avstand fra strand/by: 400/800
+Flyplass: OSL | 5580kr per pers.
+Reisedato: 11-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-11&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-17&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=ae6f5827-068d-4e99-8c87-02579a3ed320&source=finn&metaData=1e0c14aaae2f87511acbc3a40f991481d6dc7f4f958a3c0f0e43ddb12880161117f2b30f1c309e86542f33582d239dcd&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Petit Palace Puerta de Triana-Costa del Sol og Andalucia,Spania 3-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: None/100
+Flyplass: TRF | 5586kr per pers.
+Reisedato: 24-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=29553&id=43753&place=Sevilla&airport=OSL&departure=2022-07-24&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs2NDE0NDI7Uk87MTsxMTE3Mjs7Mjs7T1NMOzI0Lzc7Nw==&scroll=search-results&meta=finn
+
+Sercotel Palacio De Los Gamboa-Costa del Sol og Andalucia,Spania 4-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 60000/500
+Flyplass: TRF | 5624kr per pers.
+Reisedato: 24-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=34805&id=49475&place=Granada&airport=OSL&departure=2022-07-24&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs4MjAwODg7Uk87MTsxMTI0ODs7Mjs7T1NMOzI0Lzc7Nw==&scroll=search-results&meta=finn
+
+Avenida Hotel-Costa del Sol og Andalucia,Spania 4-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 3000/1000
+Flyplass: TRF | 5640kr per pers.
+Reisedato: 24-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=29392&id=43798&place=Almeria&airport=OSL&departure=2022-07-24&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs2MzYxMjE7Uk87MDsxMTI4MDs7Mjs7T1NMOzI0Lzc7Nw==&scroll=search-results&meta=finn
+
+Sweet Memory Apartments-Kreta,Hellas 4-Stjerners
+Fasiliteter:['restaurant', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5656kr per pers.
+Reisedato: 23-07-2022
+Antall dager: 9
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-23&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-31&homeStartLocation=4e5615b9-5f53-40f3-885b-dd98caa916db&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=f9077a26-22e3-4f85-ad37-cf73c2b5e5cb&source=finn&metaData=78bc24362d589630339e0ea508a22634c0e3fb5a226cb225acd7a72cad8aefe95a0a0c42c52953fa061621f23d45d081&directFlight=true&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+B&B Barcelona Mataro-Costa Brava og Barcelona,Spania 2-Stjerners
+Fasiliteter:['restaurant', 'elevator', 'internet_available', 'aircondition_available'] no_meals Avstand fra strand/by: 300/2000
+Flyplass: SVG | 5657kr per pers.
+Reisedato: 21-07-2022
+Antall dager: 8
+Link: https://www.allinc.no/api/StatPakDeepLink/PackageDetails?iid=4807a718fba84d75b81abc4ba61cada1&iata1=SVG&drid=37563&itin=F7E56AAECE269042EA0F34B6305F6146&accom=0FF8F8760EEA6783A750C1C1638B61EA&ppp=5657&dt1=2022-07-21&dt2=2022-07-28&pgrp1=30,30&directflight=True&meta_partner=finn_ano&utm_source=finn_ano&utm_medium=ppc&utm_campaign=affiliate%20meta
+
+Hotel Montesol-Costa Blanca og Valencia,Spania 3-Stjerners
+Fasiliteter:['elevator', 'internet_available'] no_meals Avstand fra strand/by: 200/300
+Flyplass: OSL | 5677kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-20&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-26&homeStartLocation=5cc22305-5a75-483e-bf48-2bb8b4b52796&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=4bf8b7ac-ce7a-4798-83a0-437d24b7953e&source=finn&metaData=e93c51d72d745d1da65856a8d685460c70eea65730c84f8f19a6ce60b6803e9c58d9e66718f067b3b33b336af5712646&directFlight=true&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Albatros Hotel-Kreta,Hellas 2-Stjerners
+Fasiliteter:['restaurant', 'elevator', 'pool'] breakfast Avstand fra strand/by: 400/200
+Flyplass: OSL | 5695kr per pers.
+Reisedato: 14-07-2022
+Antall dager: 8
+Link: https://www.ving.no/hellas/kreta/maleme-chaniakysten/albatros-hotel?ItemId=89282&QueryAges=42,42&QueryDepDate=20220714&QueryDepID=12667&QueryDur=8&QueryUnits=0&UseBookingFlow=true&qf=flowCharter&partner=finn&utm_medium=affiliate&utm_source=finn&utm_campaign=travelsearch_cp
+
+Hotel Komodor-Dubrovnik og omegn,Kroatia 3-Stjerners
+Fasiliteter:['balcony', 'elevator', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5696kr per pers.
+Reisedato: 15-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-15&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-21&homeStartLocation=dcdbb7e5-b4df-46e5-aba7-fe370f44bed7&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=3563718b-4aa6-4df9-8ab7-e3f97a534c09&source=finn&metaData=3914e0476b2c9f20fbdfba73d66f750ae1f80a9592ec2adb6dd7c0b2784f2f66e6a362abffd6eaf2ec4404545536ca0e&directFlight=true&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Pylea Beach-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'restaurant', 'pool', 'aircondition_available', 'internet_available'] breakfast Avstand fra strand/by: 50/9000
+Flyplass: OSL | 5700kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=333ea86d-e493-40e8-8130-19765d4f3a53&source=finn&metaData=29efa0911809d2ffe0af71a42a93b158cb37ab3116315a2c21064f5f9c85ecca717918ce369229520ca01ead32de881d&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Marietta Hotel & Apartments-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['pool', 'kids_pool', 'internet_available'] no_meals Avstand fra strand/by: None/200
+Flyplass: OSL | 5705kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.norwegianholidays.com/no/affiliates/?pax=2&airport=OSL&from=2022-07-13&to=2022-07-19&hotel=8042&packageRoomId=27675&packageBoardCode=SC&packagePrice=5705&affiliateId=5
+
+Sunny Days Hotel-Rhodos,Hellas 4-Stjerners
+Fasiliteter:['balcony', 'kids_pool', 'gym', 'internet_available'] no_meals Avstand fra strand/by: 100/800
+Flyplass: OSL | 5714kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=7516f9f1-9f5f-4df4-9aba-e71096bca243&source=finn&metaData=481b5043c02ca01455f1c24a59c5cbc8247423e72f5fb84fd484aa9a6ce2aac37112d9010da90700ed3045aef042747b&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Leonidas Hotel And Studios-Kos,Hellas 2-Stjerners
+Fasiliteter:['pool', 'kids_pool', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: 500/1800
+Flyplass: OSL | 5715kr per pers.
+Reisedato: 16-07-2022
+Antall dager: 7
+Link: https://www.tripx.no/affiliates/?pax=2&airport=OSL&from=2022-07-16&to=2022-07-22&hotel=9888&packageRoomId=27679&packageBoardCode=SC&packagePrice=5715&affiliateId=5
+
+Amic Can Pastilla-Mallorca,Spania 2-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 150/100
+Flyplass: TRF | 5727kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=33065&id=43831&place=Can+Pastilla&airport=OSL&departure=2022-07-12&return=2022-07-19&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs3NjUxOTE7Uk87MTsxMTQ1NDs7Mjs7T1NMOzEyLzc7Nw==&scroll=search-results&meta=finn
+
+Exe Barcelona Gate-Costa Brava og Barcelona,Spania 4-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: 16000/50
+Flyplass: OSL | 5732kr per pers.
+Reisedato: 14-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=33635&id=49181&place=Sant+Joan+Desp%c3%ad&airport=OSL&departure=2022-07-14&return=2022-07-20&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3ODU0MTI7Uk87MTsxMTQ2NDs7Mjs7T1NMOzE0Lzc7Ng==&scroll=search-results&meta=finn
+
+Martina Guest House-Istria,Kroatia 3-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5752kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=34032&id=43963&place=Porec&airport=OSL&departure=2022-07-20&return=2022-07-27&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs3OTgxMjM7Uk87MTsxMTUwNDs7Mjs7T1NMOzIwLzc7Nw==&scroll=search-results&meta=finn
+
+Axos Hotel-Kreta,Hellas 2-Stjerners
+Fasiliteter:['pool', 'kids_pool', 'internet_available'] breakfast Avstand fra strand/by: None/None
+Flyplass: OSL | 5759kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-20&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-26&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=a7e5265c-07eb-44a4-860f-74b93f4c2133&source=finn&metaData=08410d0d8645eeba540ecd3cfc6b3dbf29f19e14826a53def99ff9934af89bf8c1ba5303294029cb20dadf3556d75c7b&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Portimão Center Hotel-Algarve,Portugal 2-Stjerners
+Fasiliteter:['balcony', 'pool', 'elevator', 'internet_available'] breakfast Avstand fra strand/by: None/None
+Flyplass: OSL | 5771kr per pers.
+Reisedato: 22-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-22&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-28&homeStartLocation=0d21f013-8afe-4193-8aa4-cd933d42176c&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=7969418f-9912-41ae-a6f8-70209d11a437&source=finn&metaData=a110ee772a5739e698f38969b91eec404779928baa117f1977cae316e07046e33cea59122812509164fa8ca3be662dc4&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Oliva Hotel-Kreta,Hellas 2-Stjerners
+Fasiliteter:['pool', 'kids_pool', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5793kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-12&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-18&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=892f3f1c-d9d6-4956-b39f-d781a10d1847&source=finn&metaData=753636020773e65ab734fb4ff7edb952c37bf2f5ed6e8d80980f71f808fc68e05588dc19b262b3cfbbff7345fd128d9e&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Nireas Apartments-Kreta,Hellas 2-Stjerners
+Fasiliteter:['balcony', 'pool', 'internet_available'] no_meals Avstand fra strand/by: 550/0
+Flyplass: OSL | 5799kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=c702c3fc-e819-4a61-915a-80e0b588646f&source=finn&metaData=d82fe4fb328b019af1bd02dcc3c8b042bf7bcbcc1efdd760a9059036cc2bbddac72446b7a73fb132dd44e3c7dbe3f95a&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Apartments Lile-Dubrovnik og omegn,Kroatia 3-Stjerners
+Fasiliteter:['balcony', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5803kr per pers.
+Reisedato: 21-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-21&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-27&homeStartLocation=dcdbb7e5-b4df-46e5-aba7-fe370f44bed7&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=dc2d4020-358d-4de4-9d18-0a89005cd750&source=finn&metaData=0a55722ee9d4383ae71f7e4dbed9a6215edbed4c0ae29115336e40fc015f11510b5420e1c00d63098bc0d74dcccb2f48&directFlight=true&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Nicolas Studios & Apartments-Kreta,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'pool', 'internet_available'] no_meals Avstand fra strand/by: 150/200
+Flyplass: OSL | 5803kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-12&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-18&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=990ca0dd-23b8-49ff-8948-a5d64a287a91&source=finn&metaData=3f99894033b78e6e1fd83a629c5424a754e62c91cec07cd9ab7ccc22c3916582af5403dd193e9ac3f677cd464c3a860b&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Room Mate Leo-Costa del Sol og Andalucia,Spania 3-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: None/0
+Flyplass: TRF | 5819kr per pers.
+Reisedato: 24-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=34890&id=49475&place=Granada&airport=OSL&departure=2022-07-24&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs4MjQwODY7Uk87MDsxMTYzODs7Mjs7T1NMOzI0Lzc7Nw==&scroll=search-results&meta=finn
+
+Hotel Flats Friends Mar Blau-Costa Blanca og Valencia,Spania 3.5-Stjerners
+Fasiliteter:['elevator', 'internet_available'] no_meals Avstand fra strand/by: 100/100
+Flyplass: OSL | 5836kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-20&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-26&homeStartLocation=5cc22305-5a75-483e-bf48-2bb8b4b52796&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=8bebd550-c949-4674-8ef6-7c4bebc2c10b&source=finn&metaData=9d9ef940d31c09c56aa6418ec4717fd57affb5c433795639a9a4971ef05f3697038d7a0818af059380c6080ebb1663b2&directFlight=true&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Cosmi Apartments-Kreta,Hellas 3-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] no_meals Avstand fra strand/by: 250/None
+Flyplass: OSL | 5845kr per pers.
+Reisedato: 23-07-2022
+Antall dager: 9
+Link: https://www.solfaktor.no/search?hotelid=33951&id=49211&place=Gouves&airport=OSL&departure=2022-07-23&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs3OTU4MDg7U0M7MTsxMTY5MDs7Mjs7T1NMOzIzLzc7OA==&scroll=search-results&meta=finn
+
+Hostal Miranda-Costa Brava og Barcelona,Spania 2-Stjerners
+Fasiliteter:['restaurant', 'elevator', 'internet_available'] no_meals Avstand fra strand/by: 200/500
+Flyplass: OSL | 5846kr per pers.
+Reisedato: 14-07-2022
+Antall dager: 8
+Link: https://www.allinc.no/api/StatPakDeepLink/PackageDetails?iid=fc7acb35048046b6994a4c08cd372938&iata1=OSL&drid=37563&itin=929F2DA76AFC2034FBA9DFAD5F092474&accom=12DDBAC2CE4CFCEAB564F56B37398AA3&ppp=5846&dt1=2022-07-14&dt2=2022-07-21&pgrp1=30,30&directflight=True&meta_partner=finn_ano&utm_source=finn_ano&utm_medium=ppc&utm_campaign=affiliate%20meta
+
+Butterfly Boutique Hotel-Rhodos,Hellas 2-Stjerners
+Fasiliteter:['balcony', 'elevator', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: None/0
+Flyplass: OSL | 5853kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=d50826a5-bd86-4586-9561-06afc2cf40a1&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=5bebb72f-284e-440b-bf25-1d8ce10712fa&source=finn&metaData=aeb133c8cb156a12869b09f387d9d1924e895fc6a6d12fcbe6022fbb819f813b0e350c944e294cbf9fe8983c308f6930&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Hesperia Sant Joan-Costa Brava og Barcelona,Spania 3-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] no_meals Avstand fra strand/by: 11000/None
+Flyplass: OSL | 5858kr per pers.
+Reisedato: 14-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=33633&id=49181&place=Sant+Joan+Desp%c3%ad&airport=OSL&departure=2022-07-14&return=2022-07-20&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3ODUzODQ7Uk87MTsxMTcxNjs7Mjs7T1NMOzE0Lzc7Ng==&scroll=search-results&meta=finn
+
+Malia Star Apartments & Taverna-Kreta,Hellas 3-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5883kr per pers.
+Reisedato: 23-07-2022
+Antall dager: 9
+Link: https://www.solfaktor.no/search?hotelid=29172&id=44134&place=Malia&airport=OSL&departure=2022-07-23&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs2Mjc3NTM7Uk87MDsxMTc2Njs7Mjs7T1NMOzIzLzc7OA==&scroll=search-results&meta=finn
+
+Acropolis Apartments-Kreta,Hellas 3-Stjerners
+Fasiliteter:['internet_available', 'restaurant', 'pool'] no_meals Avstand fra strand/by: 450/None
+Flyplass: OSL | 5891kr per pers.
+Reisedato: 23-07-2022
+Antall dager: 9
+Link: https://www.solfaktor.no/search?hotelid=37236&id=44126&place=Hersonissos&airport=OSL&departure=2022-07-23&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs4ODgzNTc7Uk87MTsxMTc4Mjs7Mjs7T1NMOzIzLzc7OA==&scroll=search-results&meta=finn
+
+R2 Bahia Cala Ratjada Design Hotel-Mallorca,Spania 4-Stjerners
+Fasiliteter:['restaurant', 'pool', 'internet_available'] breakfast Avstand fra strand/by: 800/800
+Flyplass: TRF | 5895kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 8
+Link: https://www.escapeaway.no/search?hotelid=12087&id=15043&place=Cala+Ratjada&airport=TRF&departure=2022-07-12&return=2022-07-19&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs0MTgyNjg7QkI7MTsxMTc5MDs7Mjs7VFJGOzEyLzc7Nw==&scroll=search-results&meta=finn
+
+Nireas Hotel-Kreta,Hellas 3.5-Stjerners
+Fasiliteter:['pool', 'kids_pool', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: 350/0
+Flyplass: OSL | 5897kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-13&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-19&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=22d7ba12-7f2f-45e9-83c9-f419f1a92127&source=finn&metaData=a852274b17adc45ad7ce90bf208a11bc39adab9b444051d4387618be44b7b15f578215349d32452003ab41b48733cc69&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Hotel Eurostars Patios de Córdoba-Costa del Sol og Andalucia,Spania 4-Stjerners
+Fasiliteter:['internet_available', 'restaurant'] no_meals Avstand fra strand/by: None/None
+Flyplass: TRF | 5897kr per pers.
+Reisedato: 24-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=34698&id=51270&place=Cordoba&airport=OSL&departure=2022-07-24&return=2022-07-31&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs4MTY0OTA7Uk87MTsxMTc5NDs7Mjs7T1NMOzI0Lzc7Nw==&scroll=search-results&meta=finn
+
+Areti Aparthotel-Kreta,Hellas 2.5-Stjerners
+Fasiliteter:['balcony', 'restaurant', 'pool', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: 4000/7000
+Flyplass: OSL | 5901kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-20&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-26&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=ee951098-a05c-42d0-b047-a83dcfc68366&source=finn&metaData=78fff01987a8cfdf6714a7c15299daa0117ab9d0c7fa056f770d349b6ca49ab6eb33819fe534efa54cdf76aaf34351c4&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+HRC Hotel-Madrid,Spania 3-Stjerners
+Fasiliteter:['internet_available'] no_meals Avstand fra strand/by: None/300
+Flyplass: OSL | 5925kr per pers.
+Reisedato: 18-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=31181&id=43749&place=Madrid&airport=OSL&departure=2022-07-18&return=2022-07-25&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3MDM5Mjg7Uk87MTsxMTg1MDs7Mjs7T1NMOzE4Lzc7Nw==&scroll=search-results&meta=finn
+
+Amoros-Mallorca,Spania 3-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] breakfast Avstand fra strand/by: 400/0
+Flyplass: TRF | 5961kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 8
+Link: https://www.solfaktor.no/search?hotelid=31023&id=43827&place=Cala+Ratjada&airport=OSL&departure=2022-07-12&return=2022-07-19&rooms=1&room0adults=2&fstops=0&cs1=MjA1MC0xMi0xMjs2OTczOTk7QkI7MDsxMTkyMjs7Mjs7T1NMOzEyLzc7Nw==&scroll=search-results&meta=finn
+
+Med Playa Hotel San Eloy-Costa Brava og Barcelona,Spania 2-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] no_meals Avstand fra strand/by: 3000/None
+Flyplass: OSL | 5964kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=31478&id=43797&place=Tossa+de+Mar&airport=OSL&departure=2022-07-12&return=2022-07-18&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3MTUwNDk7Uk87MTsxMTkyODs7Mjs7T1NMOzEyLzc7Ng==&scroll=search-results&meta=finn
+
+Africa Hotel-Rhodos,Hellas 2-Stjerners
+Fasiliteter:['elevator', 'internet_available', 'aircondition_available'] breakfast Avstand fra strand/by: 150/None
+Flyplass: OSL | 5975kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.norwegianholidays.com/no/affiliates/?pax=2&airport=OSL&from=2022-07-13&to=2022-07-19&hotel=10606&packageRoomId=28001&packageBoardCode=BB&packagePrice=5975&affiliateId=5
+
+Hotel Leuka-Costa Blanca og Valencia,Spania 3-Stjerners
+Fasiliteter:['elevator', 'aircondition_available', 'internet_available'] no_meals Avstand fra strand/by: 1000/200
+Flyplass: OSL | 5985kr per pers.
+Reisedato: 20-07-2022
+Antall dager: 7
+Link: https://www.tripx.no/affiliates/?pax=2&airport=OSL&from=2022-07-20&to=2022-07-26&hotel=7441&packageRoomId=27766&packageBoardCode=SC&packagePrice=5985&affiliateId=5
+
+Reymar Playa-Costa Brava og Barcelona,Spania 3-Stjerners
+Fasiliteter:['internet_available', 'kids_pool', 'restaurant', 'pool'] no_meals Avstand fra strand/by: 150/None
+Flyplass: OSL | 5985kr per pers.
+Reisedato: 14-07-2022
+Antall dager: 7
+Link: https://www.solfaktor.no/search?hotelid=32516&id=43792&place=Malgrat+de+Mar&airport=OSL&departure=2022-07-14&return=2022-07-20&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjs3NDk1MzE7Uk87MTsxMTk3MDs7Mjs7T1NMOzE0Lzc7Ng==&scroll=search-results&meta=finn
+
+Sevach apartments-Kreta,Hellas 3-Stjerners
+Fasiliteter:['balcony', 'internet_available'] no_meals Avstand fra strand/by: None/None
+Flyplass: OSL | 5991kr per pers.
+Reisedato: 12-07-2022
+Antall dager: 7
+Link: https://www.ticket.no/deeplink.html?searchType=PACKAGE&returnTrip=true&isDestinationSearch=false&channel=PACKAGE&startDate=2022-07-12&outStartLocation=91fe6790-9b38-4dfa-a403-0a59729fbacb&endDate=2022-07-18&homeStartLocation=7e6d478a-47fe-494a-afb2-47ee90c90e9b&numberOfAdults=2&numberOfChildren=0&numberOfInfants=0&numberOfRooms=1&specificHotel=ef5bd7e0-7efb-463a-bdce-233a0db11a2c&source=finn&metaData=eed61b2181bf40259bbaff9f5d6b94710165c8e2a63e9f8c1d00b13ae810888e9c610a99904333113ffc5032acfc7d23&directFlight=false&flightSuppliers=GENERIC_SUNHOTELS,GENERIC_SEMBO,GENERIC_SIGNATOURS,GENERIC_AMADEUS,GENERIC_EXPEDIA&airlineCodes=&cid=ano.bpaket.c2014-07.dr.efinn.fcpo.gxml.h1.ir.jtp
+
+Elba Madrid Alcala-Madrid,Spania 4-Stjerners
+Fasiliteter:['restaurant', 'internet_available'] no_meals Avstand fra strand/by: None/7000
+Flyplass: OSL | 5991kr per pers.
+Reisedato: 18-07-2022
+Antall dager: 8
+Link: https://www.escapeaway.no/search?hotelid=43221&id=14591&place=Madrid&airport=OSL&departure=2022-07-18&return=2022-07-25&rooms=1&room0adults=2&cs1=MjA1MC0xMi0xMjsxMTY5ODU5O1JPOzA7MTE5ODI7OzI7O09TTDsxOC83Ozc=&scroll=search-results&meta=finn
+
+Ialysos City-Rhodos,Hellas 3-Stjerners
+Fasiliteter:['elevator', 'pool', 'aircondition_available', 'internet_available'] breakfast Avstand fra strand/by: 600/9000
+Flyplass: OSL | 5995kr per pers.
+Reisedato: 13-07-2022
+Antall dager: 7
+Link: https://www.tripx.no/affiliates/?pax=2&airport=OSL&from=2022-07-13&to=2022-07-19&hotel=7977&packageRoomId=27702&packageBoardCode=BB&packagePrice=5995&affiliateId=5
